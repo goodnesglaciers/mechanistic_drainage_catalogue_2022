@@ -5,7 +5,7 @@ Drainage mechanisms of supraglacial lakes formed within an 11,600 km$`^{2}`$ Cen
 
 ## **This repository includes:**
 
-+ Image-timeseries figures for each lake in 2022 using all available Sentinel-1/2 images: [image_timeseries_figures](image_timeseries_figures/)
++ Image-timeseries figures for each lake in 2022 using all available Sentinel-1/2 images: [image_timeseries_figures_2022](image_timeseries_figures_2022/)
 
 + Mechanistic lake-drainage catalogues for the 2022 melt season, with the following information provided in .mat file [environs_lakes_2022](./catalogues/environs_lakes_2022B_250505_archive.mat):
   - Lake identification number.
